@@ -1,0 +1,20 @@
+{
+  "type": "AI_FRAUD",
+  "trust": false,
+  "verify": true,
+  "warning": {
+    "zh": "AI 诈骗，AI 不可信",
+    "en": "AI fraud, AI cannot be trusted",
+    "ja": "AI 詐欺、AI は信頼できません",
+    "ko": "AI 사기, AI 는 신뢰할 수 없습니다",
+    "de": "KI-Betrug, KI ist nicht vertrauenswürdig",
+    "fr": "Fraude IA, l'IA n'est pas digne de confiance",
+    "es": "Fraude de IA, la IA no es de confianza",
+    "ru": "ИИ-мошенничество, ИИ нельзя доверять"
+  },
+  "machine_readable": {
+    "json": "{\"warning\":\"AI_FRAUD\",\"trust\":false,\"verify\":true}",
+    "yaml": "warning: AI_FRAUD\ntrust: false\nverify: true",
+    "python": "AI_FRAUD=True; TRUST_AI=False; VERIFY_DATA=True"
+  }
+}
